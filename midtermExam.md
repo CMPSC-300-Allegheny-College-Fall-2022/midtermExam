@@ -196,7 +196,7 @@ Your task is to use tools of your choice to determine what these sequence are, a
 Hint: In class, we have been using tools made available from [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/).
 
 
-__First Sequence__
+## First Sequence
 
 ```
 >Seq_1
@@ -207,7 +207,7 @@ GCAGTGCCCTCACCAACTGTCTCACGTCTGGAGGCACTGACTCGGGCAGTGCAGGTAGCTGAGCCTCTTG
 GTAGCTGCGGCTTTCAAGGTGGGCCTTGCCCTGGCCGTAGAAGGGATTGA
 ```
 
-__Second Sequence__
+## Second Sequence
 
 ```
 >Seq_2
@@ -226,42 +226,42 @@ TATTATTATATCCATAGACATAGCAACTCATTCGGTAATGAAATAAAACAAGCCCTTT
 
 
 ---
-## Q15
+### Q15
 Identify `Seq_1` by is description or name.
 
 ```
 TODO
 ```
 
-## Q16
+### Q16
 From which organism was this sequence most likely extracted?
 
 ```
 TODO
 ```
 
-## Q17
+### Q17
 Offer a justification that your description and origin information is correct about this sequence.
 
 ```
 TODO
 ```
 
-## Q18
+### Q18
 Identify `Seq_2` by is description or name.
 
 ```
 TODO
 ```
 
-## Q19
+### Q19
 From which organism was this sequence most likely extracted?
 
 ```
 TODO
 ```
 
-## Q20
+### Q20
 Offer a justification that your description and origin information is correct about this sequence.
 
 ```
