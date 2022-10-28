@@ -33,7 +33,7 @@
       exact: true
 
 # count number of commits in the GitHub repository
-- description: Have at least a specific minimum number of commits (5) in repository
+- description: Have at least a specific minimum number of commits (3) in repository
   check: CountCommits
   options:
     count: 3
