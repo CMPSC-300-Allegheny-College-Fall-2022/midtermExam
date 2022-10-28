@@ -2,10 +2,10 @@
 - midtermExam.md:
   - description: Ensure that midtermExam.md file exists in the directory
     check: ConfirmFileExists
-  - description: Write a minimum number of meaningful words in the reflection
+  - description: Write a minimum number of meaningful words in the midtermExam.md
     check: CountFileWords
     options:
-      count: 80
+      count: 100
       exact: false
   # - description: Confirm that the markdown file has the correct number of headers
   #   check: CountMarkdownTags
@@ -25,7 +25,7 @@
       fragment: TODO
       count: 0
       exact: true
-  - description: Delete the 'Add Your Name Here' prompt in the reflection file
+  - description: Delete the 'Add Your Name Here' prompt in midtermExam.md file
     check: MatchFileFragment
     options:
       fragment: "Add Your Name Here"
